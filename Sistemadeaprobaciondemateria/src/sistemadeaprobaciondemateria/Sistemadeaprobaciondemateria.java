@@ -42,17 +42,13 @@ Requisito estricto: Solo puedes usar una estructura if/else simple.
         if (promedio >= 65) {
 
             System.out.println("Estudiante: " + nombre);
-
             System.out.println("Promedio: " + promedio);
-
             System.out.println("Aprobado");
 
         } else {
 
             System.out.println("Estudiante: " + nombre);
-
             System.out.println("Promedio: " + promedio);
-
             System.out.println("Reprobado");
 
         }
